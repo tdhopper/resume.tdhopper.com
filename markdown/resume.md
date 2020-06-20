@@ -93,7 +93,7 @@ Technical Tools
     * **Data Stores:** Postgres, Elasticsearch, Cassandra, MongoDB, Redis, MySQL
 
 Open source contributions
-:   Contributor to a variety of Python libraies including
+:   Contributor to a variety of Python libraries including
 
     * [cpython](https://github.com/python/cpython/commits?author=tdhopper) · [datamicroscopes](https://datamicroscopes.github.io/) · [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper) · [Conda](https://github.com/conda/conda/commits?author=tdhopper) · [lda](https://github.com/ariddell/lda/commits?author=tdhopper) · [Pandas](https://github.com/pandas-dev/pandas/commits?author=tdhopper)
 
