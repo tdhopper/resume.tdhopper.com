@@ -11,10 +11,6 @@ Tim Hopper
 Experience
 ----------
 
-#### [nextmv.io](http://www.nextmv.io/), *Remote* <br>May 2020 – Jun 2020
-
-* Consulted with international food delivery firm to develop discrete event simulations for delivery logistics in Go
-
 #### [Blackberry | Cylance](http://www.cylance.com/), *Remote* <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
 * Lead development of data lake and feature store using serverless AWS infrastructure
