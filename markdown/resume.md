@@ -91,17 +91,15 @@ Technical Tools
 Open source contributions
 :   Contributor to a variety of Python libraries including
 
-    * [cpython](https://github.com/python/cpython/commits?author=tdhopper) · [datamicroscopes](https://datamicroscopes.github.io/) · [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper) · [Conda](https://github.com/conda/conda/commits?author=tdhopper) · [lda](https://github.com/ariddell/lda/commits?author=tdhopper) · [Pandas](https://github.com/pandas-dev/pandas/commits?author=tdhopper)
+    [cpython](https://github.com/python/cpython/commits?author=tdhopper) · [datamicroscopes](https://datamicroscopes.github.io/) · [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper) · [Conda](https://github.com/conda/conda/commits?author=tdhopper) · [lda](https://github.com/ariddell/lda/commits?author=tdhopper) · [Pandas](https://github.com/pandas-dev/pandas/commits?author=tdhopper)
 
 
 Personal Projects
 -----------------
 
 
-* [pythonplot.com](https://pythonplot.com)
-    * A Rosetta Stone of Python plotting libraries for exploratory data analysis
-* [Notes on Dirichlet Processes](https://dp.tdhopper.com)
-    * Derivations, code, and notes on Dirichlet processes for nonparametric Bayesian methods
+* [pythonplot.com](https://pythonplot.com): A Rosetta Stone of Python plotting libraries for exploratory data analysis
+* [Notes on Dirichlet Processes](https://dp.tdhopper.com): Derivations, code, and notes on Dirichlet processes for nonparametric Bayesian methods
 
 ----
 
