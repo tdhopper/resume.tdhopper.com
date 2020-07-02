@@ -25,7 +25,7 @@ html: init
 			--template templates/default.html \
 			--include-before templates/header.html \
 			--output $(OUT_DIR)/$$FILE_NAME.html $$f \
-			--metadata pagetitle=$$FILE_NAME;\
+			--metadata pagetitle="Tim Hopper: machine learning engineer";\
 	done
 
 docx: init
