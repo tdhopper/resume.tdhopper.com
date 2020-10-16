@@ -3,13 +3,14 @@ Tim Hopper
 
 ----
 
-> Machine learning engineer and operations researcher with extensive experience building ML products
-> for cybersecurity. Looking for a role in Raleigh, NC or remote.
+> 💻 Experienced machine learning engineer and Python developer
 
 ----
 
 Experience
 ----------
+
+#### [DTN](https://dtn.com), *Remote* <br>Data Science Architect, *August 2020 – present*
 
 #### [Blackberry | Cylance](http://www.cylance.com/), *Remote* <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
