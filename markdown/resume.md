@@ -12,6 +12,8 @@ Experience
 
 #### [DTN](https://dtn.com), *Remote* <br>Data Science Architect, *August 2020 – present*
 
+* Enable machine learning product development through building tools and platforms for data scientists.
+
 #### [Blackberry | Cylance](http://www.cylance.com/), *Remote* <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
 * Lead development of data lake and feature store using serverless AWS infrastructure
