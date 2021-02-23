@@ -12,7 +12,9 @@ Experience
 
 #### [DTN](https://dtn.com), *Remote* <br>Data Science Architect, *August 2020 – present*
 
-* Enable machine learning product development through building tools and platforms for data scientists.
+* Enable machine learning product development through building tools and platforms for data scientists
+* Train and mentor data scientists in Python tooling and software engineering practice
+* Strategize and lead development of infrastructure for big data usability and accessibility 
 
 #### [Blackberry | Cylance](http://www.cylance.com/), *Remote* <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
