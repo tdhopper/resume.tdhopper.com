@@ -105,6 +105,7 @@ Personal Projects
 
 * [pythonplot.com](https://pythonplot.com): A Rosetta Stone of Python plotting libraries for exploratory data analysis
 * [Notes on Dirichlet Processes](https://dp.tdhopper.com): Derivations, code, and notes on Dirichlet processes for nonparametric Bayesian methods
+* [Into the Hopper](https://podcast.tdhopper.com/): An occasional podcast about machine learning, data science, and software engineering
 
 ----
 
