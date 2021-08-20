@@ -2,3 +2,4 @@
 *.swo
 *.swp
 output/
+*.code-workspace
