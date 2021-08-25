@@ -1,33 +1,27 @@
-Johnny Coder
+
+Zachary Blackwood
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Data Scientist and Python Developer
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2009-2011
+:   **M.S.Ed, Mathematics and Physics Education**; Purdue University (West Lafayette)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2005-2009
+:   **B.S., Math & Physics**; Purdue University (West Lafayette)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    *Minor: Computer Science*
 
-    *Minor: Awesomeology*
+## Experience
 
-Experience
-----------
-
-**Your Most Recent Work Experience:**
+#### DTN, West Lafayette<br/>Data Scientist
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -38,7 +32,10 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
+#### Spensa, West Lafayette<br/>Web Developer
+
+
+#### Lewis Cass, Walton<br/>High School Teacher
 
 Also with a short description.
 

@@ -72,6 +72,13 @@ export PATH=$PATH:/Library/TeX/texbin/
 
 ### Troubleshooting
 
+
+#### mtxrun issue
+`unknown script 'context.lua' or 'mtx-context.lua'`
+```
+mtxrun --generate
+```
+
 #### Get versions
 
 Check if the dependencies are up to date.
