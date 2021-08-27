@@ -12,7 +12,7 @@ pdf: init
 		pandoc --standalone --template $(STYLES_DIR)/$(STYLE).tex \
 			--from markdown --to context \
 			--output $(OUT_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
-		mtxrun --path=$(OUT_DIR) --result=$$FILE_NAME.pdf --script context $$FILE_NAME.tex > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1; \
+		mtxrun --path=$(OUT_DIR) --result=zachary-blackwood-resume.pdf --script context $$FILE_NAME.tex > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1; \
 	done
 
 html: init
@@ -24,7 +24,7 @@ html: init
 			--from markdown --to html \
 			--template templates/default.html \
 			--include-before templates/header.html \
-			--output $(OUT_DIR)/$$FILE_NAME.html $$f \
+			--output $(OUT_DIR)/index.html $$f \
 			--metadata pagetitle="Zachary Blackwood: Data Scientist";\
 	done
 

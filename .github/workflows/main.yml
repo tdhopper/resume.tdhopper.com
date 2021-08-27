@@ -22,10 +22,6 @@ jobs:
           with:
             args: >-
               -c make
-        - name: rename html
-          run: mv output/resume.html output/index.html
-        - name: rename pdf
-          run: mv output/resume.pdf output/zachary-blackwood-resume.pdf
         - uses: stefanzweifel/git-auto-commit-action@v4
           with:
             branch: gh-pages
