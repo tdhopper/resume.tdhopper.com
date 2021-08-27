@@ -12,32 +12,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    container:
-      image: docker.pkg.github.com/mszep/pandoc_resume/resume_builder:latest
-      credentials:
-        username: ${{ github.actor }}
-        password: ${{ secrets.GITHUB_TOKEN }}
-
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-      
-      - name: Test directory contents
-        run: ls -al
-
-      - name: Build resume
-        run: make all
-
-      - name: rename html
-        run: mv output/resume.html index.html
-
-      - name: rename pdf
-        run: mv output/resume.pdf zachary-blackwood-resume.pdf
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: gh-pages
-          message: 'Update resume html and pdf'
+    publish_resume:
+      runs-on: ubuntu-latest
+      name: Build and publish resume in html pdf docx and rtf
+      steps:
+        - uses: actions/checkout@v2
+        - uses: rlespinasse/github-slug-action@v3.x
+        - uses: docker://tdhopper/pandoc-context:latest
+          with:
+            args: >-
+              -c make
+        - name: rename html
+          run: mv output/resume.html index.html
+        - name: rename pdf
+          run: mv output/resume.pdf zachary-blackwood-resume.pdf
+        - uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+            branch: gh-pages
+            message: 'Update resume html and pdf'
 
