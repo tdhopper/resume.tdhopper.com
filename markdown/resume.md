@@ -8,90 +8,77 @@ Zachary Blackwood
 
 ----
 
-Education
----------
-
-2009-2011
-:   **M.S.Ed, Mathematics and Physics Education**; Purdue University (West Lafayette)
-
-2005-2009
-:   **B.S., Math & Physics**; Purdue University (West Lafayette)
-
-    *Minor: Computer Science*
-
 ## Experience
 
-#### DTN, West Lafayette<br/>Data Scientist
+#### [DTN](https://www.dtn.com), <i>West Lafayette, IN</i><br/> Data Scientist, <i>April 2018-Present</i>
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Deployed and maintained infrastructure for the data science team on AWS, including scalable computing & data access and storage
+* Trained numerous less-experienced Python developers in Python development and best practices
+* Developing and productionalizing the models for [Storm Impact Analytics](https://www.dtn.com/weather/utilities-and-renewable-energy/storm-impact-analytics/)
+* Creating and maintaining a data catalog used by Data Scientists across the company to access data for analysis and model training
 
-* First item
+#### [Spensa Technologies](https://www.dtn.com/dtn-acquires-spensa-technologies/), <i>West Lafayette, IN</i><br/> Web Developer, <i>July 2015-April 2018</i>
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Developing end-to-end features with both detailed and limited specifications
+* Managing web and database servers along with expandable storage tools through
+AWS
+* Communicating with numberous third-party organizations regarding various
+tools and integrations
+* Integrating with several third-party services to allow users to asyncronously move their data to and from these other services
+* Project management for multi-million dollar long-term contract, including prioritizing tasks, training and assistance for a team of developers and managing customer relationships
+* Responding to and diagnosed server outages and customer issues
 
-#### Spensa, West Lafayette<br/>Web Developer
 
+#### [Lewis Cass](http://www.lewiscass.net), <i>Walton, IN</i><br/> High School Teacher, <i>September 2010-July 2015</i>
 
-#### Lewis Cass, Walton<br/>High School Teacher
-
-Also with a short description.
+* Taught courses including Physics, Computer Science & Software Engineering &
+Principles of Engineering. 
+* Developed, delivered and revised effective lessons.
+* Developed innovative materials and researched effective teaching methods and
+procedures.
+* Created and mentored the Iron Kings, a FIRST Robotics team, who was able to advance to the World Championship in our rookie season. 
+* Mentored the students in fundraising, software development, electrical wiring, etc. in the process of creating our robot.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   Contributed to a number of python libraries, including <br/>
+[intake](https://github.com/intake/intake/commits?author=blackary) • 
+[intake-geopandas](https://github.com/intake/intake_geopandas/commits?author=blackary) • 
+[apache arrow](https://github.com/apache/arrow/commits?author=blackary)
+:   Helped to create a custom plugin for Intake which allows for the automatic population of a data catalog with data files matching a certain pattern (to be released as open-source shortly)
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **high proficiency:** Python
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **medium proficiency:** JavaScript
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Technical Tools
+:   **ci/cd tools:** Bitbucket pipelines, GitLab, Bamboo
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **data science packages:** Pandas, Intake, Scikit-learn, Lightgbm
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **cloud architecture:** Amazon Web Services (Batch, Fargate, Lambda, EC2, S3, RDS, CloudFormation, CloudWatch, IAM)
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+:   **web development:** Django, backbone.js, Postgresql, Postgis, Django Rest Framework, HTML, CSS
 
-* Human Languages:
+Side projects
+:   Web development, design & hosting for various non-profit sites such as:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+    [Gentle Reformation](https://gentlereformation.com/) • [Women's Retreat](https://rpcwomensretreat.com/) • [How Shall We Then Vote](https://howshallwethenvote.com/)
+ 
+Education
+---------
 
-* Random tidbit
+2009-2011
+:   **M.S.Ed, Mathematics and Physics Education**; Purdue University (West Lafayette, IN)
 
-* Other sort of impressive-sounding thing you did
+2005-2009
+:   **B.S., Math & Physics**; Purdue University (West Lafayette, IN)
 
-----
+    *Minor: Computer Science*
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+
+> [blackary.com](https://blackary.com) • <zacharyblackwood@gmail.com> • 765-532-1649 <br/>
+ West Lafayette, IN
