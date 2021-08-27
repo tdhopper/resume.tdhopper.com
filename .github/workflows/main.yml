@@ -28,13 +28,16 @@ jobs:
         run: ls -al
 
       - name: Build resume
-        run: make
+        run: make all
 
-      - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v2.2.3
+      - name: rename html
+          run: mv output/resume.html index.html
+      - name: rename pdf
+          run: mv output/resume.pdf zachary-blackwood-resume.pdf
+
+      - uses: EndBug/add-and-commit@v7
         with:
-          # Artifact name
-          name: Resume PDF # optional, default is artifact
-          # A file, directory or wildcard pattern that describes what to upload
-          path: output/*.pdf
+          add: "zachary-blackwood-resume.pdf index.html"
+          branch: gh-pages
+          message: 'Update resume html and pdf'
 
