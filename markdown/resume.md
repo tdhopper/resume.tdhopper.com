@@ -14,7 +14,7 @@ Zachary Blackwood
 
 * Deploying and maintaining infrastructure for the data science team on AWS, including scalable computing, and data access/storage
 * Training developers in Python development and best practices
-* Developing and productionalizing the models for [Storm Impact Analytics](https://www.dtn.com/weather/utilities-and-renewable-energy/storm-impact-analytics/)
+* Developing and productionalizing the models for [Storm Impact Analytics](https://www.dtn.com/weather/utilities-and-renewable-energy/storm-impact-analytics)
 * Creating and maintaining a data catalog used by Data Scientists across the company to access data for modeling and analysis
 
 #### [Spensa Technologies](https://www.dtn.com/dtn-acquires-spensa-technologies/), <i>West Lafayette, IN</i><br/> Web Developer, <i>July 2015-April 2018</i>
