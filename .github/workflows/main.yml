@@ -24,8 +24,7 @@ jobs:
               -c make
         - uses: stefanzweifel/git-auto-commit-action@v4
           with:
-            file_pattern: output/*.pdf output/*.html
-            add_options: -f
+            file_pattern: docs/*.pdf output/*.html
             branch: gh-pages
             commit_message: 'Update resume html and pdf'
 
