@@ -12,10 +12,10 @@ Zachary Blackwood
 
 #### [DTN](https://www.dtn.com), <i>West Lafayette, IN</i><br/> Data Scientist, <i>April 2018-Present</i>
 
-* Deployed and maintained infrastructure for the data science team on AWS, including scalable computing & data access and storage
-* Trained numerous less-experienced Python developers in Python development and best practices
+* Deploying and maintaining infrastructure for the data science team on AWS, including scalable computing, and data access/storage
+* Training developers in Python development and best practices
 * Developing and productionalizing the models for [Storm Impact Analytics](https://www.dtn.com/weather/utilities-and-renewable-energy/storm-impact-analytics/)
-* Creating and maintaining a data catalog used by Data Scientists across the company to access data for analysis and model training
+* Creating and maintaining a data catalog used by Data Scientists across the company to access data for modeling and analysis
 
 #### [Spensa Technologies](https://www.dtn.com/dtn-acquires-spensa-technologies/), <i>West Lafayette, IN</i><br/> Web Developer, <i>July 2015-April 2018</i>
 
@@ -31,13 +31,12 @@ tools and integrations
 
 #### [Lewis Cass](http://www.lewiscass.net), <i>Walton, IN</i><br/> High School Teacher, <i>September 2010-July 2015</i>
 
-* Taught courses including Physics, Computer Science & Software Engineering &
-Principles of Engineering. 
-* Developed, delivered and revised effective lessons.
-* Developed innovative materials and researched effective teaching methods and
-procedures.
-* Created and mentored the Iron Kings, a FIRST Robotics team, who was able to advance to the World Championship in our rookie season. 
-* Mentored the students in fundraising, software development, electrical wiring, etc. in the process of creating our robot.
+* Teaching courses including Physics, Computer Science & Software Engineering &
+Principles of Engineering
+* Introduced multiple new courses to the school, including beta-teaching [PLTW](https://www.pltw.org/) Computer Science
+* Researching, developing, delivering and revising effective lessons
+* Creating and mentoring the Iron Kings, a FIRST Robotics team, who were able to advance to the World Championship in our rookie season
+* Mentoring the team members in fundraising, software development, electrical wiring, etc. in the process of creating our robot
 
 Technical Experience
 --------------------
@@ -47,7 +46,7 @@ Open Source
 [intake](https://github.com/intake/intake/commits?author=blackary) • 
 [intake-geopandas](https://github.com/intake/intake_geopandas/commits?author=blackary) • 
 [apache arrow](https://github.com/apache/arrow/commits?author=blackary)
-:   Helped to create a custom plugin for Intake which allows for the automatic population of a data catalog with data files matching a certain pattern (to be released as open-source shortly)
+:   Helped to create a [custom plugin](https://pypi.org/project/intake-pattern-catalog/) for Intake which allows for the automatic population of a data catalog with data files matching a certain pattern
 
 Programming Languages
 :   **high proficiency:** Python
@@ -80,5 +79,5 @@ Education
     *Minor: Computer Science*
 
 
-> [blackary.com](https://blackary.com) • <zacharyblackwood@gmail.com> • 765-532-1649 <br/>
+> [blackary.com](https://blackary.com) • <zacharyblackwood@gmail.com> <br/>
  West Lafayette, IN
