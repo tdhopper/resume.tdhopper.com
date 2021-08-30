@@ -22,7 +22,7 @@ Zachary Blackwood
 * Developing end-to-end features with both detailed and limited specifications
 * Managing web and database servers along with expandable storage tools through
 AWS
-* Communicating with numberous third-party organizations regarding various
+* Communicating with numerous third-party organizations regarding various
 tools and integrations
 * Integrating with several third-party services to allow users to asyncronously move their data to and from these other services
 * Project management for multi-million dollar long-term contract, including prioritizing tasks, training and assistance for a team of developers and managing customer relationships
