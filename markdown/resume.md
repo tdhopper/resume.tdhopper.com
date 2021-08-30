@@ -24,7 +24,7 @@ Zachary Blackwood
 AWS
 * Communicating with numberous third-party organizations regarding various
 tools and integrations
-* Integrating with several third-party services to allow users to asyncronously move their data to and from these other services
+* Integrating with several third-party services to allow users to asynchronously move their data to and from these other services
 * Project management for multi-million dollar long-term contract, including prioritizing tasks, training and assistance for a team of developers and managing customer relationships
 * Responding to and diagnosed server outages and customer issues
 
