@@ -50,10 +50,22 @@ Experience
 * Provided analytics and computational support for one of the nation's leading nonprofit research institutions
 * Contributed to projects on social media analysis for public health, environmental GIS modeling, nonlinear mixed effect modeling, and text-mining-based crime forecasting
 
+Teaching Experience
+-------------------
+
+#### North Carolina State University
+
+* Instructor for Calculus 2 (2011)
+* Lecture assistant and grader for Calculus 1 and 2, including leading online office hours
+#### University of Virginia
+
+* Instructor for intensive Calculus 1 and Calculus 2 (summer 2010)
+* Lecture assistant for Calculus 1 and Calculus 2 (2009/2010)
 Publications
 -----------------
 
-* Kim AE, Hopper T, Simpson S, et al. Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study. _J Med Internet Res._ 2015;17(11):e251. Published 2015 Nov 6. doi:10.2196/jmir.4466
+* Kim, A. E., Hopper, T., Simpson, S., Nonnemaker, J., Lieberman, A. J., Hansen, H., Guillory, J., & Porter, L. (2015). Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study. _Journal of Medical Internet Research_, 17(11), e251. https://doi.org/10.2196/jmir.4466
+
 Education
 ---------
 
