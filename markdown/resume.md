@@ -70,7 +70,7 @@ Teaching Experience
 Publications
 -----------------
 
-* Kim, A. E., Hopper, T., Simpson, S., Nonnemaker, J., Lieberman, A. J., Hansen, H., Guillory, J., & Porter, L. (2015). Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study. _Journal of Medical Internet Research_, 17(11), e251. https://doi.org/10.2196/jmir.4466
+* Kim, A. E., Hopper, T., Simpson, S., Nonnemaker, J., Lieberman, A. J., Hansen, H., Guillory, J., & Porter, L. (2015). Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study. _Journal of Medical Internet Research_, 17(11), e251. 
 
 Education
 ---------
