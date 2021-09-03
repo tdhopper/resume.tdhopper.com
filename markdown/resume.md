@@ -50,6 +50,10 @@ Experience
 * Provided analytics and computational support for one of the nation's leading nonprofit research institutions
 * Contributed to projects on social media analysis for public health, environmental GIS modeling, nonlinear mixed effect modeling, and text-mining-based crime forecasting
 
+Publications
+-----------------
+
+* Kim AE, Hopper T, Simpson S, et al. Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study. _J Med Internet Res._ 2015;17(11):e251. Published 2015 Nov 6. doi:10.2196/jmir.4466
 Education
 ---------
 
