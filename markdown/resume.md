@@ -14,7 +14,7 @@ Experience
 
 * Enable machine learning product development through building tools and platforms for data scientists
 * Train and mentor data scientists in Python tooling and software engineering practice
-* Strategize and lead development of infrastructure for big data usability and accessibility 
+* Strategize and lead development of infrastructure for big data usability and accessibility
 
 #### [Blackberry | Cylance](http://www.cylance.com/), *Remote* <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
@@ -53,14 +53,20 @@ Experience
 Teaching Experience
 -------------------
 
-#### North Carolina State University
+#### North Carolina State University (2010-2012)
 
-* Instructor for Calculus 2 (2011)
+* Instructor for Calculus 2
 * Lecture assistant and grader for Calculus 1 and 2, including leading online office hours
-#### University of Virginia
 
-* Instructor for intensive Calculus 1 and Calculus 2 (summer 2010)
-* Lecture assistant for Calculus 1 and Calculus 2 (2009/2010)
+#### University of Virginia (2009-2010)
+
+* Instructor for intensive Calculus 1 and Calculus 2
+* Lecture assistant for Calculus 1 and Calculus 2
+
+#### Wears Valley Ranch (2008-2009)
+
+* Tutor at Christian home for children from crisis family situations. Tutored 9 boys in history, science, mathematics, English, and bible.
+
 Publications
 -----------------
 
@@ -74,7 +80,6 @@ Education
 
     *Research area: Reinforcement learning methods for healthcare operations*
 
-    *Instructor: Calculus 2*
 
     *Key Courses: Graph Data Mining, Machine Learning, Bayesian Networks, Linear Programming*
 
@@ -85,7 +90,6 @@ Education
 
     *No degree received*
 
-    *Instructor: Calculus 1 and Calculus 2*
 
     *Key Courses: Introduction to Mathematical Statistics, Complex Analysis, Real Analysis, Advanced Linear Algebra*
 
