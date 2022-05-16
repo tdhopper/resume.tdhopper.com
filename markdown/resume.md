@@ -10,7 +10,11 @@ Tim Hopper
 Experience
 ----------
 
-#### [DTN](https://dtn.com), *Remote* <br>Data Science Architect, *August 2020 – present*
+#### [Varo Bank](https://www.varomoney.com/), *Remote* <br>Staff Software Engineer, Machine Learning, *December 2021 - present*
+
+* Building machine learning platform for fraud detection, lending, and marketing
+
+#### [DTN](https://dtn.com), *Remote* <br>Data Science Architect, *August 2020 – December 2021*
 
 * Enable machine learning product development through building tools and platforms for data scientists
 * Train and mentor data scientists in Python tooling and software engineering practice
