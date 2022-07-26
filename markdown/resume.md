@@ -12,7 +12,9 @@ Experience
 
 #### [Varo Bank](https://www.varomoney.com/), *Remote* <br>Staff Software Engineer, Machine Learning, *December 2021 - present*
 
-* Building machine learning platform for fraud detection, lending, and marketing
+* Building machine learning platform for fraud detection, risk mitigation, lending, and marketing
+* Lead development of next generation feature store
+* Guide team in engineering best practices
 
 #### [DTN](https://dtn.com), *Remote* <br>Data Science Architect, *August 2020 – December 2021*
 
