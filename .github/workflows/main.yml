@@ -4,6 +4,8 @@ jobs:
        runs-on: ubuntu-latest
        steps:
          - uses: check-spelling/check-spelling@v0.0.21
+           with:
+             experimental_path: markdown/resume.md
      publish_resume:
       runs-on: ubuntu-latest
       name: Build and publish resume in html pdf docx and rtf
