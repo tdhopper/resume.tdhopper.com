@@ -18,6 +18,7 @@ Experience
 
 #### [DTN](https://dtn.com), *Remote* <br>Data Science Architect, *August 2020 – December 2021*
 
+* Built and maintained data science infrastructure with AWS and CloudFormation
 * Enabled machine learning product development through building tools and platforms for data scientists
 * Trained and mentored data scientists in Python tooling and software engineering practice
 * Strategized and led development of AWS infrastructure for big data usability and accessibility 
