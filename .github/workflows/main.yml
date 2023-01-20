@@ -1,5 +1,8 @@
 on: [push]
 jobs:
+     spell_check:
+       name: GitHub Spellcheck Action
+       uses: rojopolis/spellcheck-github-actions@0.29.0
      publish_resume:
       runs-on: ubuntu-latest
       name: Build and publish resume in html pdf docx and rtf
