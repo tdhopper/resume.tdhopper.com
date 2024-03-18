@@ -10,22 +10,24 @@ Tim Hopper
 Experience
 ----------
 
-#### [Varo Bank](https://www.varomoney.com/)
-##### Sr. Staff Software Engineer, Machine Learning, *March 2024 - present*
-##### Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
+### [Varo Bank](https://www.varomoney.com/)
+
+#### Sr. Staff Software Engineer, Machine Learning, *March 2024 - present*
+
+#### Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
 
 * Develop machine learning platform for fraud detection, risk mitigation, lending, and marketing
 * Lead development of batch feature store using Tecton, enabling democratized feature creation and discovery
 * Guide team in implementing engineering best practices.
 
-#### [DTN](https://dtn.com) <br>Data Science Architect, *August 2020 – December 2021*
+### [DTN](https://dtn.com) <br>Data Science Architect, *August 2020 – December 2021*
 
 * Built and maintained data science infrastructure with AWS and CloudFormation
 * Enabled machine learning product development by building tools and platforms for data scientists
 * Trained and mentored data scientists in Python tooling and software engineering practice
 * Strategized and led the development of AWS infrastructure for big data usability and accessibility 
 
-#### [Blackberry | Cylance](http://www.cylance.com/) <br>Senior Data Scientist, *Nov 2017 – May 2020*
+### [Blackberry | Cylance](http://www.cylance.com/) <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
 * Lead development of data lake and feature store using serverless AWS infrastructure
 * Developed and maintained Python packages for data ingestion, cleaning, and standardization
@@ -33,7 +35,7 @@ Experience
 * Researched machine learning techniques for dynamic detection of malware
 
 
-#### [Distil Networks](http://www.distilnetworks.com/) <br>Data Scientist, *Oct 2015 – Nov 2017*
+### [Distil Networks](http://www.distilnetworks.com/) <br>Data Scientist, *Oct 2015 – Nov 2017*
 
 * Researched and developed machine learning techniques for detection of malicious web bots
 * Lead research for validation of JavaScript-based client fingerprinting technique
@@ -42,19 +44,19 @@ Experience
 * Developed Python-based, internal tools for fast querying of data warehouse
 * Introduced team to best practices in Python development and data analysis
 
-#### [Qadium](https://qadium.com/) <br>Data Scientist, *Feb 2015 – Oct 2015*
+### [Qadium](https://qadium.com/) <br>Data Scientist, *Feb 2015 – Oct 2015*
 
 * Built [open-source tools](https://github.com/datamicroscopes/lda) in C++ and Python for topic modeling and inference on nonparametric Bayesian models
 * Wrote [instructional material](https://github.com/tdhopper/notes-on-dirichlet-processes/blob/master/README.md) for inference on nonparametric Bayesian models in with IPython notebooks
 * Maintained continuous integration with Travis-CI and automated deployment to Anaconda.org
 
-#### [Parse.ly](https://www.parsely.com/) <br>Software Engineer, *Jan 2014 – Feb 2015*
+### [Parse.ly](https://www.parsely.com/) <br>Software Engineer, *Jan 2014 – Feb 2015*
 
 * Developed algorithms in Python for aggregation of large-scale, streaming, time-series data
 * Built and maintained lambda architecture on AWS using Storm, Elasticsearch, Redis, and Cassandra
 * Contributed to [streamparse](https://github.com/parsely/streamparse), an open-source library for real-time stream processing in Python
 
-#### [RTI International](http://www.rti.org/) <br>Data Scientist, *Oct 2012 – Jan 2014*
+### [RTI International](http://www.rti.org/) <br>Data Scientist, *Oct 2012 – Jan 2014*
 
 * Provided analytics and computational support for one of the nation's leading nonprofit research institutions
 * Contributed to projects on social media analysis for public health, environmental GIS modeling, nonlinear mixed effect modeling, and text-mining-based crime forecasting
