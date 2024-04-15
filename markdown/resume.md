@@ -10,6 +10,8 @@ Tim Hopper
 Experience
 ----------
 
+\section{This is a multiline\par heading in LaTeX}
+
 #### [Varo Bank](https://www.varomoney.com/)<br>Sr. Staff Software Engineer, Machine Learning, *March 2024 - present*\\\\Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
 
 * Develop machine learning platform for fraud detection, risk mitigation, lending, and marketing
