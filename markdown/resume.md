@@ -10,7 +10,7 @@ Tim Hopper
 Experience
 ----------
 
-#### [Varo Bank](https://www.varomoney.com/)<br>Sr. Staff Software Engineer, Machine Learning, *March 2024 - present*\\Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
+#### [Varo Bank](https://www.varomoney.com/)<br>Sr. Staff Software Engineer, Machine Learning, *March 2024 - present*\\\\Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
 
 * Develop machine learning platform for fraud detection, risk mitigation, lending, and marketing
 * Lead development of batch feature store using Tecton, enabling democratized feature creation and discovery
