@@ -25,7 +25,7 @@ Experience
 
 #### [Blackberry | Cylance](http://www.cylance.com/) <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
-* Lead development of data lake and feature store using serverless AWS infrastructure
+* Lead development of feature store using serverless AWS infrastructure
 * Developed and maintained Python packages for data ingestion, cleaning, and standardization
 * Guided data science team in best practices for Python development and software testing
 * Researched machine learning techniques for dynamic detection of malware
@@ -33,11 +33,9 @@ Experience
 
 #### [Distil Networks](http://www.distilnetworks.com/) <br>Data Scientist, *Oct 2015 – Nov 2017*
 
-* Researched and developed machine learning techniques for detection of malicious web bots
 * Lead research for validation of JavaScript-based client fingerprinting technique
 * Constructed hierarchical Bayesian models for analysis of internet user behavior
-* Primary developer of real-time identification platform for malicious web bots on Apache Storm
-* Developed Python-based, internal tools for fast querying of data warehouse
+* Lead development of real-time identification platform for malicious web bots on Apache Storm
 * Introduced team to best practices in Python development and data analysis
 
 #### [Qadium](https://qadium.com/) <br>Data Scientist, *Feb 2015 – Oct 2015*
@@ -67,9 +65,6 @@ Education
 
     *Instructor: Calculus 2*
 
-    *Key Courses: Graph Data Mining, Machine Learning, Bayesian Networks, Linear Programming*
-
-
 
 2009-2010
 :   **Phd Student in Mathematics**; University of Virginia, Charlottesville, VA
@@ -77,9 +72,6 @@ Education
     *No degree received*
 
     *Instructor: Calculus 1 and Calculus 2*
-
-    *Key Courses: Introduction to Mathematical Statistics, Complex Analysis, Real Analysis, Advanced Linear Algebra*
-
 
 2004-2008
 :   **BS, Mathematics**; Grove City College, Grove City, PA
@@ -96,9 +88,8 @@ Technical Tools
     * **Programming Languages (high proficiency):** Python
     * **Programming Languages (some proficiency):** C++, Go, C#, Mathematica, R, SQL, Java, Javascript
     * **Machine Learning Tools:** Scikit-Learn, PyTorch, MLFlow
-    * **Data Processing Tools:** Amazon Web Services (Batch, Lambda, ECS, S3, SQS), Apache Storm/streamparse, Apache Spark/Pyspark, Pandas, Scikit-learn, Impala, Hive, Dask
-    * **Infrastructure and Configuration Tools**: Terraform, Ansible, Saltstack
-    * **Data Stores:** Postgres, Elasticsearch, Cassandra, MongoDB, Redis, MySQL
+    * **Cloud Services:** Amazon Web Services (Batch, Lambda, ECS, S3, SQS, Glue)
+    * **Infrastructure and Configuration Tools**: Terraform, Cloud Formation, Ansible, Saltstack
 
 Open source contributions
 :   Contributor to a variety of Python libraries including
@@ -110,9 +101,10 @@ Personal Projects
 -----------------
 
 
+* [pydevtools.com](https://pydevtools.com): Ebook on Python developer tooling
 * [pythonplot.com](https://pythonplot.com): A Rosetta Stone of Python plotting libraries for exploratory data analysis
-* [Notes on Dirichlet Processes](https://dp.tdhopper.com): Derivations, code, and notes on Dirichlet processes for nonparametric Bayesian methods
-* [Into the Hopper](https://podcast.tdhopper.com/): An occasional podcast about machine learning, data science, and software engineering
+* [Notes on Dirichlet Processes](https://dp.tdhopper.com): Notes on Dirichlet processes for nonparametric Bayesian methods
+* [Into the Hopper](https://podcast.tdhopper.com/): Podcast about machine learning and software engineering
 
 ----
 
