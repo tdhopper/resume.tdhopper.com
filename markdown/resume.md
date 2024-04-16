@@ -14,7 +14,7 @@ Experience
 
 * Develop machine learning platform for fraud detection, risk mitigation, lending, and marketing
 * Lead development of batch feature store using Tecton, enabling democratized feature creation and discovery
-* Guide team in implementing engineering best practices.
+* Guide team in implementing engineering best practices
 
 #### [DTN](https://dtn.com) <br>Data Science Architect, *August 2020 – December 2021*
 
@@ -25,7 +25,7 @@ Experience
 
 #### [Blackberry | Cylance](http://www.cylance.com/) <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
-* Lead development of feature store using serverless AWS infrastructure
+* Led development of feature store using serverless AWS infrastructure
 * Developed and maintained Python packages for data ingestion, cleaning, and standardization
 * Guided data science team in best practices for Python development and software testing
 * Researched machine learning techniques for dynamic detection of malware
@@ -33,7 +33,7 @@ Experience
 
 #### [Distil Networks](http://www.distilnetworks.com/) <br>Data Scientist, *Oct 2015 – Nov 2017*
 
-* Lead research for validation of JavaScript-based client fingerprinting technique
+* Led research for validation of JavaScript-based client fingerprinting technique
 * Constructed hierarchical Bayesian models for analysis of internet user behavior
 * Lead development of real-time identification platform for malicious web bots on Apache Storm
 * Introduced team to best practices in Python development and data analysis
@@ -67,7 +67,7 @@ Education
 
 
 2009-2010
-:   **Phd Student in Mathematics**; University of Virginia, Charlottesville, VA
+:   **PhD Student in Mathematics**; University of Virginia, Charlottesville, VA
 
     *No degree received*
 
@@ -92,7 +92,7 @@ Technical Tools
     * **Infrastructure and Configuration Tools**: Terraform, Cloud Formation, Ansible, Saltstack
 
 Open source contributions
-:   Contributor to a variety of Python libraries including
+:   Contributor to a variety of Python libraries, including
 
     [cpython](https://github.com/python/cpython/commits?author=tdhopper) · [datamicroscopes](https://datamicroscopes.github.io/) · [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper) · [Conda](https://github.com/conda/conda/commits?author=tdhopper) · [lda](https://github.com/ariddell/lda/commits?author=tdhopper) · [Pandas](https://github.com/pandas-dev/pandas/commits?author=tdhopper)
 
