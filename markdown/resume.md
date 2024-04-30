@@ -108,5 +108,5 @@ Personal Projects
 
 ----
 
-> [tdhopper.com](https://tdhopper.com) • <tim@resume.tdhopper.com> • (919) 473-3145 \
+> [tdhopper.com](https://tdhopper.com) • <resume@tdhopper.com> • (919) 473-3145 \
 > Raleigh, NC USA
