@@ -65,14 +65,6 @@ Education
 
     *Instructor: Calculus 2*
 
-
-2009-2010
-:   **PhD Student in Mathematics**; University of Virginia, Charlottesville, VA
-
-    *No degree received*
-
-    *Instructor: Calculus 1 and Calculus 2*
-
 2004-2008
 :   **BS, Mathematics**; Grove City College, Grove City, PA
 
