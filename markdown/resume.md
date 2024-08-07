@@ -3,7 +3,7 @@ Tim Hopper
 
 ----
 
-> 💻 Experienced machine learning engineer and Python developer
+> 💻 I'm an experienced machine learning engineer and Python developer specializing in machine learning platforms, feature stores, and developer tooling. I aim to build tools that enable fast iteration on machine learning products that will drive business value and make customers happy.
 
 ----
 
@@ -55,22 +55,6 @@ Experience
 * Provided analytics and computational support for one of the nation's leading nonprofit research institutions
 * Contributed to projects on social media analysis for public health, environmental GIS modeling, nonlinear mixed effect modeling, and text-mining-based crime forecasting
 
-Education
----------
-
-2010-2012
-:   **Master of Operations Research**; North Carolina State University, Raleigh, NC
-
-    *Research area: Reinforcement learning methods for healthcare operations*
-
-    *Instructor: Calculus 2*
-
-2004-2008
-:   **BS, Mathematics**; Grove City College, Grove City, PA
-
-    *Minor in Applied Physics; Minor in Computer Science; Summa Cum Laude*
-
-
 Technical Experience
 --------------------
 
@@ -88,10 +72,24 @@ Open source contributions
 
     [cpython](https://github.com/python/cpython/commits?author=tdhopper) · [datamicroscopes](https://datamicroscopes.github.io/) · [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper) · [Conda](https://github.com/conda/conda/commits?author=tdhopper) · [lda](https://github.com/ariddell/lda/commits?author=tdhopper) · [Pandas](https://github.com/pandas-dev/pandas/commits?author=tdhopper)
 
+Education
+---------
+
+2010-2012
+:   **Master of Operations Research**; North Carolina State University, Raleigh, NC
+
+    *Research area: Reinforcement learning methods for healthcare operations*
+
+    *Instructor: Calculus 2*
+
+2004-2008
+:   **BS, Mathematics**; Grove City College, Grove City, PA
+
+    *Minor in Applied Physics; Minor in Computer Science; Summa Cum Laude*
+
 
 Personal Projects
 -----------------
-
 
 * [pydevtools.com](https://pydevtools.com): Ebook on Python developer tooling
 * [pythonplot.com](https://pythonplot.com): A Rosetta Stone of Python plotting libraries for exploratory data analysis
