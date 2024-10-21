@@ -10,7 +10,9 @@ Tim Hopper
 Experience
 ----------
 
-#### [Varo Bank](https://www.varomoney.com/)<br>Sr. Staff Software Engineer, Machine Learning, *March 2024 - present*<br>Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
+#### [Spotify](https://www.spotify.com)<br>Machine Learning Infrastructure Engineer, *October 2024 – present*
+
+#### [Varo Bank](https://www.varomoney.com/)<br>Sr. Staff Software Engineer, Machine Learning, *March 2024 - October 2024*<br>Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
 
 * Develop machine learning platform for fraud detection, risk mitigation, lending, and marketing
 * Lead development of batch feature store using Tecton, enabling democratized feature creation and discovery
@@ -23,7 +25,7 @@ Experience
 * Trained and mentored data scientists in Python tooling and software engineering practice
 * Strategized and led the development of AWS infrastructure for big data usability and accessibility 
 
-#### [Blackberry | Cylance](http://www.cylance.com/) <br>Senior Data Scientist, *Nov 2017 – May 2020*
+#### [Blackberry | Cylance](https://www.blackberry.com/us/en/products/blackberry-cybersecurity) <br>Senior Data Scientist, *Nov 2017 – May 2020*
 
 * Led development of feature store using serverless AWS infrastructure
 * Developed and maintained Python packages for data ingestion, cleaning, and standardization
