@@ -12,11 +12,13 @@ Experience
 
 #### [Spotify](https://www.spotify.com)<br>Machine Learning Infrastructure Engineer, *October 2024 – present*
 
+* Support the music information retrieval researchers and productionize audio machine learning products
+
 #### [Varo Bank](https://www.varomoney.com/)<br>Sr. Staff Software Engineer, Machine Learning, *March 2024 - October 2024*<br>Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
 
-* Develop machine learning platform for fraud detection, risk mitigation, lending, and marketing
+* Developed machine learning platform for fraud detection, risk mitigation, lending, and marketing
 * Lead development of batch feature store using Tecton, enabling democratized feature creation and discovery
-* Guide team in implementing engineering best practices
+* Guided team in implementing engineering best practices
 
 #### [DTN](https://dtn.com) <br>Data Science Architect, *August 2020 – December 2021*
 
