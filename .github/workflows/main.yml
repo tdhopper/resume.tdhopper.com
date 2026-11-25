@@ -1,32 +1,28 @@
+name: Build printable résumé
 on: [push]
 jobs:
-     publish_resume:
-      runs-on: ubuntu-latest
-      name: Build and publish resume in html pdf docx and rtf
-      steps:
-        - uses: actions/checkout@v2
-        - uses: rlespinasse/github-slug-action@v3.x
-        - uses: docker://tdhopper/pandoc-context:latest
-          with:
-            args: >-
-              -c make
-        - name: rename html
-          run: mv output/resume.html output/index.html
-        - name: rename pdf
-          run: mv output/resume.pdf output/tim-hopper-resume.pdf
-        - name: Publish production to netlify
-          uses: netlify/actions/cli@master
-          with:
-            args: deploy --dir=./output --timeout 30 --prod
-          if: env.GITHUB_REF_SLUG == 'master'
-          env:
-            NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-            NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-        - name: Publish preview to netlify
-          uses: netlify/actions/cli@master
-          with:
-            args: deploy --dir=./output --timeout 30 --alias ${{ env.GITHUB_REF_SLUG }}
-          if: env.GITHUB_REF_SLUG != 'master'
-          env:
-            NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-            NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker://tdhopper/pandoc-context:latest
+        with:
+          args: -c make
+      - run: |
+          mv output/resume.html output/index.html
+          mv output/resume.pdf output/tim-hopper-resume.pdf
+          test -s output/index.html
+          test -s output/tim-hopper-resume.pdf
+          test -s output/resume.docx
+          test -s output/resume.rtf
+          grep -F 'Indianapolis area, IN, USA' output/index.html
+      - uses: actions/upload-artifact@v4
+        with:
+          name: resume-static
+          path: |
+            output/index.html
+            output/tim-hopper-resume.pdf
+            output/resume.docx
+            output/resume.rtf
+          if-no-files-found: error
+          retention-days: 1
