@@ -12,7 +12,8 @@ Experience
 
 #### [Spotify](https://www.spotify.com)<br>Machine Learning Infrastructure Engineer, *October 2024 – present*
 
-* Support the music information retrieval researchers and productionize audio machine learning products
+* Build training and evaluation infrastructure for Spotify’s Artist-First AI Music Lab, enabling researchers to iterate faster on audio machine learning models
+* Drive adoption of AI-assisted development practices across the team, establishing coding standards that improved AI-generated code quality
 
 #### [Varo Bank](https://www.varomoney.com/)<br>Sr. Staff Software Engineer, Machine Learning, *March 2024 - October 2024*<br>Staff Software Engineer, Machine Learning, *December 2021 - March 2024*
 
